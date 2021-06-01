@@ -1,0 +1,1 @@
+pytest  test.py --junit-xml=C:\Git\pyTest\results.xml
